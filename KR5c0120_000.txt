@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:26:30.821149
-#+TITLE: 沖虛至德真經  齋口義
-#+PROPERTY: DZID  DZ0729
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，14—735 八卷 洞神部玉訣類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
